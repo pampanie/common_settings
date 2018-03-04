@@ -1,6 +1,9 @@
 #########################
 # openFrameworks patterns
 #########################
+# my
+my/*.*
+
 
 # build files
 openFrameworks.a
